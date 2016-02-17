@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/MauroJr/easy-regex/issues"
   },
-  "homepage": "https://github.com/MauroJr/easy-regex#readme"
+  "homepage": "https://github.com/MauroJr/easy-regex#readme",
+  "dependencies": {
+    "escape-regex": "^1.0.7"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "name": "easy-regex",
   "version": "1.0.0",
-  "description": "A easy way to create regex routes.",
+  "description": "A easy way to create regex for events routes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/MauroJr/easy-regex#readme",
   "dependencies": {
-    "escape-regex": "^1.0.7"
+    "escape-regex": "^1.0.7",
+    "tofactory": "^1.0.3"
   }
 }
